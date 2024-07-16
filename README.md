@@ -1,2 +1,2 @@
 # NLP
-Contains natural language processing exercises
+It contains natural language processing exercises that I practiced.
