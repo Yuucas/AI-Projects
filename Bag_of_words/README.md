@@ -1,4 +1,4 @@
 # Bag of Words
 The bag-of-words model is a way of representing text data when modeling text with machine learning algorithms.
 
-![BoW Representation](/bow.png)
+![BoW Representation](Bag_of_words/bow.png)
