@@ -8,6 +8,7 @@ Bag of Words is a simple yet effective technique for converting text data into n
 
 
 <div align="left">
+  
 ### How it works:
 Tokenization: The text is broken down into individual words (tokens).
 Vocabulary Creation: A unique list of all words in the text corpus is created. This is called the vocabulary.
