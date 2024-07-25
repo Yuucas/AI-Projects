@@ -10,6 +10,6 @@ Bag of Words is a simple yet effective technique for converting text data into n
 <div align="left">
   
 ### How it works:
-Tokenization: The text is broken down into individual words (tokens).
-Vocabulary Creation: A unique list of all words in the text corpus is created. This is called the vocabulary.
-Vectorization: Each document is represented as a numerical vector, where each element corresponds to a word in the vocabulary. The value of the element represents the frequency of that word in the document.
+* Tokenization: The text is divided into individual words (tokens).
+* Vocabulary Creation: A unique list of all words in the text corpus is created. This is called the vocabulary.
+* Vectorization: Each document is represented as a numerical vector, where each element corresponds to a word in the vocabulary. The element's value represents the frequency of that word in the document.
