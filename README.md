@@ -1,2 +1,2 @@
 # NLP
-It contains natural language processing exercises that I practiced.
+Hands-on natural language processing projects using Python and popular libraries like NLTK, spaCy, and PyTorch.
