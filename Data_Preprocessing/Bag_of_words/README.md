@@ -2,7 +2,7 @@
 Bag of Words is a simple yet effective technique for converting text data into numerical representations that machine learning algorithms can understand.
 
 <p align="center">
-  <img width="600" src="https://github.com/Yuucas/NLP/blob/9ca7b4af4c31a97a303108b9e2b882efe3003a9b/Bag_of_words/table.png"></a>
+  <img width="600" src="https://github.com/Yuucas/NLP/blob/3091c02973960e3990faafe931b22eafb5681ffb/Data_Preprocessing/Bag_of_words/table.png"></a>
 </p>
 <div align="center">
 
