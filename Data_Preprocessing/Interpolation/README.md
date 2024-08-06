@@ -3,7 +3,10 @@
 Interpolation is a technique used in data preprocessing to estimate unknown values within a dataset based on known data points. It's particularly useful for handling missing values or creating new data points between existing ones.
 
 <p align="center">
-  <img width="750" src="https://github.com/Yuucas/NLP/blob/3091c02973960e3990faafe931b22eafb5681ffb/Data_Preprocessing/Bag_of_words/table.png"></a>
+  <img width="500" src="https://github.com/Yuucas/NLP/blob/c6917d29f1d5f2e5dc78f19d41ad848430bc0b5e/Data_Preprocessing/Interpolation/raw_data.png"></a>
+</p>
+<p align="center">
+  <img width="1000" src="https://github.com/Yuucas/NLP/blob/c6917d29f1d5f2e5dc78f19d41ad848430bc0b5e/Data_Preprocessing/Interpolation/output.png"></a>
 </p>
 <div align="center">
 
