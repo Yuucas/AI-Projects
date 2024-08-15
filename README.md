@@ -1,2 +1,1 @@
-# NLP
-Hands-on natural language processing projects using Python and popular libraries like Pandas, Scipy, NLTK, spaCy, and PyTorch.
+In this repository, you can find hands-on projects on computer vision, natural language processing, data processing, forecasing, etc. I mostly used generic libraries like PyTorch, Tensorflow, Nltk, Spacy, OpenCV, Open3D, OpenGL.
